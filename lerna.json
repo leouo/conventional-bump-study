@@ -3,7 +3,7 @@
     "modules/*"
   ],
   "version": "3.5.0",
-  "changelogPreset": {
+  "changelog": {
     "name": "angular",
     "types": [
       {
