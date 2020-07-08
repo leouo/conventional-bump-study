@@ -2,6 +2,29 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.0.0](https://github.com/leouo/semver-bump-automation/compare/v3.3.0...v4.0.0) (2020-07-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* remove feature 8
+* remove feature 9
+* remove feature 7
+
+### 🐛 Bug Fixes
+
+* **Feature-3:** move file ([0c577e5](https://github.com/leouo/semver-bump-automation/commit/0c577e5725cad83883c7bc0a854643e1e6ebf119))
+
+
+### 💪 Improvements
+
+* remove feature 7 ([ee45515](https://github.com/leouo/semver-bump-automation/commit/ee45515ee692c1597351189b42f527fb0da194c7))
+* remove feature 8 ([0f2bca0](https://github.com/leouo/semver-bump-automation/commit/0f2bca0617ab12d25bd1ef6db572ee153c5078e9))
+* remove feature 9 ([0b03b59](https://github.com/leouo/semver-bump-automation/commit/0b03b592d9415c0d8742b887559c6429fb9ea36f))
+* **Changelog:** add space after emojis ([529dca2](https://github.com/leouo/semver-bump-automation/commit/529dca22c6cf2d6a2c66683d059425230cc86155))
+* **Feature-3:** add lerna package ([bae0858](https://github.com/leouo/semver-bump-automation/commit/bae0858ed1961a73d311a744bb32e7140ddac576))
+* **Feature-5:** add lerna package ([0d0060f](https://github.com/leouo/semver-bump-automation/commit/0d0060f71365cf700011bc8a44e7483451b3e5a3))
+
 ## [3.3.0](https://github.com/leouo/semver-bump-automation/compare/v3.2.0...v3.3.0) (2020-07-08)
 
 
