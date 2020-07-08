@@ -2,9 +2,9 @@
   "types": [
     {"type": "feat", "section": "📦 Features"},
     {"type": "fix", "section": "🐛 Bug Fixes"},
-    {"type": "chore", "hidden": false},
+    {"type": "chore", "hidden": true},
     {"type": "docs", "section": "💪 Improvements"},
-    {"type": "style", "hidden": false},
+    {"type": "style", "hidden": true},
     {"type": "refactor", "section": "💪 Improvements"},
     {"type": "perf", "section": "💪 Improvements"},
     {"type": "test", "hidden": true}
