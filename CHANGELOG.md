@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.1.1](https://github.com/leouo/semver-bump-automation/compare/v3.1.0...v3.1.1) (2020-07-08)
+
+
+* **Feature-3:** add line on feature-3 ([159de97](https://github.com/leouo/semver-bump-automation/commit/159de97577ab2b84db9083c6cdc30aa3306e3f7a))
+
 ## [3.1.0](https://github.com/leouo/semver-bump-automation/compare/v3.0.0...v3.1.0) (2020-07-08)
 
 
