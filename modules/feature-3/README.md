@@ -1,6 +1,5 @@
 # `feature-3`
-
-> TODO: description
+Adding some docs
 
 ## Usage
 
