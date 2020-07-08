@@ -1,12 +1,12 @@
 {
   "types": [
-    {"type": "feat", "section": "📦Features"},
-    {"type": "fix", "section": "🐛Bug Fixes"},
+    {"type": "feat", "section": "📦 Features"},
+    {"type": "fix", "section": "🐛 Bug Fixes"},
     {"type": "chore", "hidden": false},
-    {"type": "docs", "section": "💪Improvements"},
+    {"type": "docs", "section": "💪 Improvements"},
     {"type": "style", "hidden": false},
-    {"type": "refactor", "section": "💪Improvements"},
-    {"type": "perf", "section": "💪Improvements"},
+    {"type": "refactor", "section": "💪 Improvements"},
+    {"type": "perf", "section": "💪 Improvements"},
     {"type": "test", "hidden": true}
   ]
 }
