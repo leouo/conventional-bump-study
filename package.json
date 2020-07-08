@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/leouo/semver-bump-automation#readme",
   "devDependencies": {
+    "lerna": "^3.22.1",
     "standard-version": "^8.0.0"
   }
 }
