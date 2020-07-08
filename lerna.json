@@ -4,7 +4,6 @@
   ],
   "version": "3.5.1",
   "changelog": {
-    "name": "angular",
     "types": [
       {
         "type": "feat",
@@ -16,7 +15,7 @@
       },
       {
         "type": "chore",
-        "hidden": true
+        "section": "💪 Improvements"
       },
       {
         "type": "docs",
