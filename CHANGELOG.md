@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/leouo/semver-bump-automation/compare/v1.2.0...v2.0.0) (2020-07-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* remove features 1 and 4
+
+* remove features 1 and 4 ([26293ee](https://github.com/leouo/semver-bump-automation/commit/26293eeb4c92f37520b534ad61dd447815045557))
+
 ## [1.2.0](https://github.com/leouo/semver-bump-automation/compare/v1.1.0...v1.2.0) (2020-07-08)
 
 
