@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.3](https://github.com/leouo/semver-bump-automation/compare/v0.0.2...v0.0.3) (2020-07-08)
+
+
+### Bug Fixes
+
+* **Feature-1:** fix feature 1 ([fcf6e4c](https://github.com/leouo/semver-bump-automation/commit/fcf6e4c765d7003d0dcdb3c51f960677e4db4e01))
+* **Feature-2:** fix feature 2 ([0b77ddc](https://github.com/leouo/semver-bump-automation/commit/0b77ddc071496e3e4954beba5c0214062b3189d2))
+
 ### [0.0.2](https://github.com/leouo/semver-bump-automation/compare/v0.0.1...v0.0.2) (2020-07-08)
 
 
