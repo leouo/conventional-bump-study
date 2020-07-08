@@ -4,7 +4,6 @@
   "description": "> TODO: description",
   "author": "Leonardo Cesar Morais <leonardoccpmorais@gmail.com>",
   "homepage": "https://github.com/leouo/semver-bump-automation/tree/master/modules/feature-5#readme",
-  "license": "ISC",
   "main": "lib/feature-5.js",
   "directories": {
     "lib": "lib",
