@@ -8,6 +8,10 @@ echo "some fix" >> modules/feature-3/Feature-3.md
 git add .
 git commit -m 'fix(feature-3): fix implementation'
 
+echo "some feat" >> modules/feature-3/Feature-3.md
+git add .
+git commit -m 'feat(feature-3): feat implementation'
+
 echo "some chore code" >> modules/feature-3/Feature-3.md
 git add .
 git commit -m 'chore(feature-3): chore implementation'
@@ -55,3 +59,7 @@ git commit -m 'perf(feature-5): performatic implementation'
 echo "some style code" >> modules/feature-5/Feature-5.md
 git add .
 git commit -m 'perf(feature-5): performatic implementation'
+
+echo "some feat" >> modules/feature-5/Feature-5.md
+git add .
+git commit -m 'feat(feature-5): feat implementation'
