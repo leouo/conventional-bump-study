@@ -5,6 +5,7 @@
   "version": "3.10.0",
   "changelogPreset": {
     "name": "conventional-changelog-angular",
+    "header": "Teste de header",
     "types": [
       {
         "type": "feat",
