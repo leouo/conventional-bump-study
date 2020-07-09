@@ -5,6 +5,7 @@
   "version": "3.31.0",
   "changelogPreset": {
     "name": "conventional-changelog-conventionalcommits",
+    "changelogHeader": "ffffffffffff",
     "types": [
       {
         "type": "feat",
