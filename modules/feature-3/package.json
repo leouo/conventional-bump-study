@@ -25,8 +25,8 @@
   },
   "changelog": {
     "labels": {
-      "Type: Feature": ":star: Features",
-      "Type: Bug": ":bug: Bug Fixes",
+      "Type: feature": ":star: Features",
+      "Type: bug": ":bug: Bug Fixes",
       "Type: Security": ":lock: Security Fixes",
       "Type: Performance": ":chart_with_upwards_trend: Performance Fixes",
       "Type: Improvement": ":zap: Improvement Features",
