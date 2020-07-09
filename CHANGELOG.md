@@ -3,6 +3,29 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 3.20.0 (2020-07-09)
+
+* feat(feature-3): feat implementation ([2ef6e1e](https://github.com/leouo/semver-bump-automation/commit/2ef6e1e))
+* feat(feature-5): feat implementation ([848ffae](https://github.com/leouo/semver-bump-automation/commit/848ffae))
+* perf(feature-3): performatic implementation ([7cafa49](https://github.com/leouo/semver-bump-automation/commit/7cafa49))
+* perf(feature-3): performatic implementation ([797023f](https://github.com/leouo/semver-bump-automation/commit/797023f))
+* perf(feature-5): performatic implementation ([6062673](https://github.com/leouo/semver-bump-automation/commit/6062673))
+* perf(feature-5): performatic implementation ([841ce5b](https://github.com/leouo/semver-bump-automation/commit/841ce5b))
+* refactor(feature-3): refactoring implementation ([964247e](https://github.com/leouo/semver-bump-automation/commit/964247e))
+* refactor(feature-5): refactoring implementation ([f266107](https://github.com/leouo/semver-bump-automation/commit/f266107))
+* test(feature-3): test implementation ([f6cf5d7](https://github.com/leouo/semver-bump-automation/commit/f6cf5d7))
+* test(feature-5): test implementation ([5525a9e](https://github.com/leouo/semver-bump-automation/commit/5525a9e))
+* chore(feature-3): chore implementation ([59eb862](https://github.com/leouo/semver-bump-automation/commit/59eb862))
+* chore(feature-5): chore implementation ([20325c5](https://github.com/leouo/semver-bump-automation/commit/20325c5))
+* fix(feature-3): fix implementation ([20ee905](https://github.com/leouo/semver-bump-automation/commit/20ee905))
+* fix(feature-5): fix implementation ([dc0f27f](https://github.com/leouo/semver-bump-automation/commit/dc0f27f))
+* docs(feature-3): add doc content ([27518c7](https://github.com/leouo/semver-bump-automation/commit/27518c7))
+* docs(feature-5): add doc content ([4470fdf](https://github.com/leouo/semver-bump-automation/commit/4470fdf))
+
+
+
+
+
 # [3.19.0](https://github.com/leouo/semver-bump-automation/compare/v3.18.0...v3.19.0) (2020-07-09)
 
 
