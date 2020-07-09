@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 3.6.0 (2020-07-09)
+
+* feat(Feature-5): add feature ([b869257](https://github.com/leouo/semver-bump-automation/commit/b869257))
+* feat(Lerna): changelog config ([c53d269](https://github.com/leouo/semver-bump-automation/commit/c53d269))
+
+
+
+
+
 <a name="3.5.4"></a>
 ## [3.5.4](https://github.com/leouo/semver-bump-automation/compare/v3.5.3...v3.5.4) (2020-07-09)
 
