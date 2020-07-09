@@ -3,6 +3,21 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 3.23.0 (2020-07-09)
+
+* feat(feature-5): feat implementation ([3d3ed6a](https://github.com/leouo/semver-bump-automation/commit/3d3ed6a))
+* perf(feature-5): performatic implementation ([cd3f859](https://github.com/leouo/semver-bump-automation/commit/cd3f859))
+* perf(feature-5): performatic implementation ([fdf3a1b](https://github.com/leouo/semver-bump-automation/commit/fdf3a1b))
+* refactor(feature-5): refactoring implementation ([61e0f87](https://github.com/leouo/semver-bump-automation/commit/61e0f87))
+* test(feature-5): test implementation ([006c01e](https://github.com/leouo/semver-bump-automation/commit/006c01e))
+* chore(feature-5): chore implementation ([112f982](https://github.com/leouo/semver-bump-automation/commit/112f982))
+* fix(feature-5): fix implementation ([ea3e9b8](https://github.com/leouo/semver-bump-automation/commit/ea3e9b8))
+* docs(feature-5): add doc content ([8069b7c](https://github.com/leouo/semver-bump-automation/commit/8069b7c))
+
+
+
+
+
 ## 3.22.0 (2020-07-09)
 
 * feat(feature-5): feat implementation ([e931cd2](https://github.com/leouo/semver-bump-automation/commit/e931cd2))
