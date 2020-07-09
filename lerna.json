@@ -8,11 +8,11 @@
     "types": [
       {
         "type": "feat",
-        "section": "📦 Features"
+        "section": "Features"
       },
       {
         "type": "fix",
-        "section": "🐛 Bug Fixes"
+        "section": "Bug Fixes"
       },
       {
         "type": "chore",
@@ -20,7 +20,7 @@
       },
       {
         "type": "docs",
-        "section": "💪 Improvements"
+        "section": "Improvements"
       },
       {
         "type": "style",
@@ -28,11 +28,11 @@
       },
       {
         "type": "refactor",
-        "section": "💪 Improvements"
+        "section": "Improvements"
       },
       {
         "type": "perf",
-        "section": "💪 Improvements"
+        "section": "Improvements"
       },
       {
         "type": "test",
