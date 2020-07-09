@@ -2,5 +2,8 @@
   "packages": [
     "modules/*"
   ],
-  "version": "3.8.0"
+  "version": "3.8.0",
+  "changelogPreset": {
+    "name": "conventional-changelog-angular-emoji"
+  }
 }
