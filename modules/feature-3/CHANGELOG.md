@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="3.5.4"></a>
+## [3.5.4](https://github.com/leouo/semver-bump-automation/compare/v3.5.3...v3.5.4) (2020-07-09)
+
+
+### :sparkles: Features
+
+* **Lerna:** changelog config ([3012dd0](https://github.com/leouo/semver-bump-automation/commit/3012dd0))
+
+
+
+
+
 ## [3.5.3](https://github.com/leouo/semver-bump-automation/compare/v3.5.2...v3.5.3) (2020-07-09)
 
 
