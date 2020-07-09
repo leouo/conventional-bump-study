@@ -10,3 +10,4 @@ const feature5 = require('feature-5');
 
 // TODO: DEMONSTRATE API
 ```
+some doc stuff
