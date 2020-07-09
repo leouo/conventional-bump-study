@@ -4,6 +4,7 @@
 
 ## Usage
 
+
 ```
 const feature5 = require('feature-5');
 
