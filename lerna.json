@@ -4,7 +4,7 @@
   ],
   "version": "3.11.0",
   "changelogPreset": {
-    "name": "conventional-changelog-angular",
+    "name": "conventional-changelog-conventionalcommits",
     "header": "Teste de header",
     "types": [
       {
