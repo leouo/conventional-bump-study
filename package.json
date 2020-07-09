@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "release": "standard-version"
+    "release": "standard-version",
+    "lerna": "lerna version --conventional-commits -y"
   },
   "repository": {
     "type": "git",
