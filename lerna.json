@@ -4,20 +4,6 @@
   ],
   "version": "3.41.0",
   "changelogPreset": {
-    "name": "conventional-changelog-conventionalcommits",
-    "changelogHeader": "ffffffffffff",
-    "types": [
-      {
-        "type": "feat",
-        "section": "Features"
-      }
-    ],
-    "issuePrefixes": [
-      "#"
-    ],
-    "issueUrlFormat": "{{host}}/{{owner}}/{{repository}}/issues/{{id}}",
-    "commitUrlFormat": "{{host}}/{{owner}}/{{repository}}/commit/{{hash}}",
-    "compareUrlFormat": "{{host}}/{{owner}}/{{repository}}/compare/{{previousTag}}...{{currentTag}}",
-    "userUrlFormat": "{{host}}/{{user}}"
+    "name": "conventional-changelog-conventionalcommits"
   }
 }
