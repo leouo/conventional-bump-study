@@ -1,3 +1,7 @@
+# [4.0.0](https://github.com/leouo/semver-bump-automation/compare/v3.27.0...v4.0.0) (2020-07-09)
+
+
+
 # Change Log
 
 All notable changes to this project will be documented in this file.
