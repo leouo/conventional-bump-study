@@ -2,7 +2,7 @@
   "packages": [
     "modules/*"
   ],
-  "version": "3.21.0",
+  "version": "3.22.0",
   "changelogPreset": {
     "name": "conventional-changelog-conventionalcommits",
     "types": [
