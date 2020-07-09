@@ -2,7 +2,7 @@
   "packages": [
     "modules/*"
   ],
-  "version": "3.6.0",
+  "version": "3.7.0",
   "changelogPreset": {
     "name": "conventionalcommits",
     "types": [
@@ -44,6 +44,7 @@
     ],
     "commitUrlFormat": "{{host}}/{{owner}}/{{repository}}/commit/{{hash}}",
     "compareUrlFormat": "{{host}}/{{owner}}/{{repository}}/compare/{{previousTag}}...{{currentTag}}",
-    "userUrlFormat": "{{host}}/{{user}}"
+    "userUrlFormat": "{{host}}/{{user}}",
+    "issueUrlFormat": "{{host}}/{{owner}}/{{repository}}/issues/{{id}}"
   }
 }
