@@ -4,7 +4,7 @@
   ],
   "version": "3.7.0",
   "changelogPreset": {
-    "name": "conventionalcommits",
+    "name": "angular",
     "types": [
       {
         "type": "feat",
