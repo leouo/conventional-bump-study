@@ -4,7 +4,7 @@
   ],
   "version": "3.8.2",
   "changelogPreset": {
-    "name": "conventional-changelog-angular-emoji",
+    "name": "conventional-changelog-angular",
     "types": [
       {
         "type": "feat",
