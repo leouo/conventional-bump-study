@@ -4,7 +4,7 @@
   ],
   "version": "3.8.1",
   "changelogPreset": {
-    "name": "conventional-changelog-angular-emoji"
+    "name": "conventional-changelog-angular-emoji",
     "types": [
       {"type": "feat", "section": "📦 Features"},
       {"type": "fix", "section": "🐛 Bug Fixes"},
