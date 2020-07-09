@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.7.1](https://github.com/leouo/semver-bump-automation/compare/v3.7.0...v3.7.1) (2020-07-09)
+
+
+### Bug Fixes
+
+* **Feature-5:** add feature ([2512120](https://github.com/leouo/semver-bump-automation/commit/2512120308c1ee9c78945e02e6a9800c70e8cc63))
+
+
+
+
+
 ## 3.7.0 (2020-07-09)
 
 * feat(Feature-5): add feature ([2aa3be6](https://github.com/leouo/semver-bump-automation/commit/2aa3be6))
