@@ -3,6 +3,58 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="3.8.2"></a>
+## [3.8.2](https://github.com/leouo/semver-bump-automation/compare/v3.8.1...v3.8.2) (2020-07-09)
+
+
+### :book: Documentation
+
+* **feature-3:** add doc content ([ccbaa58](https://github.com/leouo/semver-bump-automation/commit/ccbaa58))
+* **feature-5:** add doc content ([144bc4a](https://github.com/leouo/semver-bump-automation/commit/144bc4a))
+
+
+### :bug: Bug Fixes
+
+* **feature-3:** fix implementation ([c0aba46](https://github.com/leouo/semver-bump-automation/commit/c0aba46))
+* **feature-5:** fix implementation ([03b5017](https://github.com/leouo/semver-bump-automation/commit/03b5017))
+
+
+### :package: Code Refactoring
+
+* **feature-3:** refactoring implementation ([ef16173](https://github.com/leouo/semver-bump-automation/commit/ef16173))
+* **feature-5:** refactoring implementation ([6502d58](https://github.com/leouo/semver-bump-automation/commit/6502d58))
+
+
+### :rocket: Performance Improvements
+
+* **feature-3:** performatic implementation ([5313abb](https://github.com/leouo/semver-bump-automation/commit/5313abb))
+* **feature-3:** performatic implementation ([8753941](https://github.com/leouo/semver-bump-automation/commit/8753941))
+* **feature-5:** performatic implementation ([8cf2b91](https://github.com/leouo/semver-bump-automation/commit/8cf2b91))
+* **feature-5:** performatic implementation ([723e047](https://github.com/leouo/semver-bump-automation/commit/723e047))
+
+
+### :rotating_light: Tests
+
+* **feature-3:** test implementation ([9bf9ad7](https://github.com/leouo/semver-bump-automation/commit/9bf9ad7))
+* **feature-5:** test implementation ([f15f879](https://github.com/leouo/semver-bump-automation/commit/f15f879))
+
+
+### :sparkles: Features
+
+* **feature-3:** feat implementation ([01e7d3f](https://github.com/leouo/semver-bump-automation/commit/01e7d3f))
+* **feature-5:** feat implementation ([46b40ab](https://github.com/leouo/semver-bump-automation/commit/46b40ab))
+* **Lerna:** changelog config ([18cb0d9](https://github.com/leouo/semver-bump-automation/commit/18cb0d9))
+
+
+### :ticket: Chores
+
+* **feature-3:** chore implementation ([032d91d](https://github.com/leouo/semver-bump-automation/commit/032d91d))
+* **feature-5:** chore implementation ([923639c](https://github.com/leouo/semver-bump-automation/commit/923639c))
+
+
+
+
+
 <a name="3.8.1"></a>
 ## [3.8.1](https://github.com/leouo/semver-bump-automation/compare/v3.8.0...v3.8.1) (2020-07-09)
 
