@@ -3,6 +3,29 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 3.36.0 (2020-07-09)
+
+* feat(feature-3): feat implementation ([8017b0e](https://github.com/leouo/semver-bump-automation/commit/8017b0e))
+* feat(feature-5): feat implementation ([80807e0](https://github.com/leouo/semver-bump-automation/commit/80807e0))
+* perf(feature-3): performatic implementation ([a7ff1bc](https://github.com/leouo/semver-bump-automation/commit/a7ff1bc))
+* perf(feature-3): performatic implementation ([79ff3cd](https://github.com/leouo/semver-bump-automation/commit/79ff3cd))
+* perf(feature-5): performatic implementation ([27eba4e](https://github.com/leouo/semver-bump-automation/commit/27eba4e))
+* perf(feature-5): performatic implementation ([340c668](https://github.com/leouo/semver-bump-automation/commit/340c668))
+* refactor(feature-3): refactoring implementation ([26a96f8](https://github.com/leouo/semver-bump-automation/commit/26a96f8))
+* refactor(feature-5): refactoring implementation ([d80c9e3](https://github.com/leouo/semver-bump-automation/commit/d80c9e3))
+* test(feature-3): test implementation ([18852cc](https://github.com/leouo/semver-bump-automation/commit/18852cc))
+* test(feature-5): test implementation ([f57bb49](https://github.com/leouo/semver-bump-automation/commit/f57bb49))
+* chore(feature-3): chore implementation ([872e9c1](https://github.com/leouo/semver-bump-automation/commit/872e9c1))
+* chore(feature-5): chore implementation ([dd11f1a](https://github.com/leouo/semver-bump-automation/commit/dd11f1a))
+* fix(feature-3): fix implementation ([d68e690](https://github.com/leouo/semver-bump-automation/commit/d68e690))
+* fix(feature-5): fix implementation ([1e9f149](https://github.com/leouo/semver-bump-automation/commit/1e9f149))
+* docs(feature-3): add doc content ([d17fa6d](https://github.com/leouo/semver-bump-automation/commit/d17fa6d))
+* docs(feature-5): add doc content ([9f4cf83](https://github.com/leouo/semver-bump-automation/commit/9f4cf83))
+
+
+
+
+
 ## 3.35.0 (2020-07-09)
 
 * feat(feature-3): feat implementation ([ef9cc1a](https://github.com/leouo/semver-bump-automation/commit/ef9cc1a))
