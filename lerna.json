@@ -9,11 +9,11 @@
     "types": [
       {
         "type": "feat",
-        "section": "📦 Features"
+        "section": "Features"
       },
       {
         "type": "fix",
-        "section": "🐛 Bug Fixes"
+        "section": "Bug Fixes"
       },
       {
         "type": "chore",
@@ -21,7 +21,7 @@
       },
       {
         "type": "docs",
-        "hidden": true
+        "section": "Documentation"
       },
       {
         "type": "style",
