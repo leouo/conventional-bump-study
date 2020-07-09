@@ -3,6 +3,51 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="3.7.4"></a>
+## [3.7.4](https://github.com/leouo/semver-bump-automation/compare/v3.7.3...v3.7.4) (2020-07-09)
+
+
+### :book: Documentation
+
+* **feature-3:** add doc content ([a99601c](https://github.com/leouo/semver-bump-automation/commit/a99601c))
+* **feature-5:** add doc content ([90c0290](https://github.com/leouo/semver-bump-automation/commit/90c0290))
+
+
+### :bug: Bug Fixes
+
+* **feature-3:** fix implementation ([d0e1c0b](https://github.com/leouo/semver-bump-automation/commit/d0e1c0b))
+* **feature-5:** fix implementation ([646df74](https://github.com/leouo/semver-bump-automation/commit/646df74))
+
+
+### :package: Code Refactoring
+
+* **feature-3:** refactoring implementation ([9a5be6b](https://github.com/leouo/semver-bump-automation/commit/9a5be6b))
+* **feature-5:** refactoring implementation ([848ccd2](https://github.com/leouo/semver-bump-automation/commit/848ccd2))
+
+
+### :rocket: Performance Improvements
+
+* **feature-3:** performatic implementation ([9a0f9a1](https://github.com/leouo/semver-bump-automation/commit/9a0f9a1))
+* **feature-3:** performatic implementation ([13ea946](https://github.com/leouo/semver-bump-automation/commit/13ea946))
+* **feature-5:** performatic implementation ([dd46d92](https://github.com/leouo/semver-bump-automation/commit/dd46d92))
+* **feature-5:** performatic implementation ([dbeab7a](https://github.com/leouo/semver-bump-automation/commit/dbeab7a))
+
+
+### :rotating_light: Tests
+
+* **feature-3:** test implementation ([bba0bf2](https://github.com/leouo/semver-bump-automation/commit/bba0bf2))
+* **feature-5:** test implementation ([5bbee19](https://github.com/leouo/semver-bump-automation/commit/5bbee19))
+
+
+### :ticket: Chores
+
+* **feature-3:** chore implementation ([5b3df44](https://github.com/leouo/semver-bump-automation/commit/5b3df44))
+* **feature-5:** chore implementation ([8caa6ca](https://github.com/leouo/semver-bump-automation/commit/8caa6ca))
+
+
+
+
+
 <a name="3.7.3"></a>
 ## [3.7.3](https://github.com/leouo/semver-bump-automation/compare/v3.7.2...v3.7.3) (2020-07-09)
 

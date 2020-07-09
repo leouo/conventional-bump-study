@@ -3,6 +3,44 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="3.7.4"></a>
+## [3.7.4](https://github.com/leouo/semver-bump-automation/compare/v3.7.3...v3.7.4) (2020-07-09)
+
+
+### :book: Documentation
+
+* **feature-5:** add doc content ([90c0290](https://github.com/leouo/semver-bump-automation/commit/90c0290))
+
+
+### :bug: Bug Fixes
+
+* **feature-5:** fix implementation ([646df74](https://github.com/leouo/semver-bump-automation/commit/646df74))
+
+
+### :package: Code Refactoring
+
+* **feature-5:** refactoring implementation ([848ccd2](https://github.com/leouo/semver-bump-automation/commit/848ccd2))
+
+
+### :rocket: Performance Improvements
+
+* **feature-5:** performatic implementation ([dd46d92](https://github.com/leouo/semver-bump-automation/commit/dd46d92))
+* **feature-5:** performatic implementation ([dbeab7a](https://github.com/leouo/semver-bump-automation/commit/dbeab7a))
+
+
+### :rotating_light: Tests
+
+* **feature-5:** test implementation ([5bbee19](https://github.com/leouo/semver-bump-automation/commit/5bbee19))
+
+
+### :ticket: Chores
+
+* **feature-5:** chore implementation ([8caa6ca](https://github.com/leouo/semver-bump-automation/commit/8caa6ca))
+
+
+
+
+
 <a name="3.7.3"></a>
 ## [3.7.3](https://github.com/leouo/semver-bump-automation/compare/v3.7.2...v3.7.3) (2020-07-09)
 
