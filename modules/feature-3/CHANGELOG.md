@@ -5,6 +5,48 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 preset al;skdl;akl;dska;lskd;lasd
 
+## 3.69.0 (2020-07-10)
+
+
+### perf
+
+* perf(feature-3): performatic implementation ([b99332f](https://github.com/leouo/semver-bump-automation/commit/b99332f))
+* perf(feature-3): performatic implementation ([c347c91](https://github.com/leouo/semver-bump-automation/commit/c347c91))
+
+
+### refactor
+
+* refactor(feature-3): refactoring implementation ([73fc75c](https://github.com/leouo/semver-bump-automation/commit/73fc75c))
+
+
+### test
+
+* test(feature-3): test implementation ([2b696e4](https://github.com/leouo/semver-bump-automation/commit/2b696e4))
+
+
+### chore
+
+* chore(feature-3): chore implementation ([9da5f80](https://github.com/leouo/semver-bump-automation/commit/9da5f80))
+
+
+### feat
+
+* feat(feature-3): feat implementation ([7afa0c1](https://github.com/leouo/semver-bump-automation/commit/7afa0c1))
+
+
+### fix
+
+* fix(feature-3): fix implementation ([80fbbce](https://github.com/leouo/semver-bump-automation/commit/80fbbce))
+
+
+### docs
+
+* docs(feature-3): add doc content ([23a5057](https://github.com/leouo/semver-bump-automation/commit/23a5057))
+
+
+
+preset al;skdl;akl;dska;lskd;lasd
+
 ## 3.68.0 (2020-07-10)
 
 
