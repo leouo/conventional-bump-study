@@ -5,6 +5,56 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 preset al;skdl;akl;dska;lskd;lasd
 
+## 3.68.0 (2020-07-10)
+
+
+### feat
+
+* feat(feature-3): feat implementation ([5b23694](https://github.com/leouo/semver-bump-automation/commit/5b23694))
+* feat(feature-5): feat implementation ([ad310d7](https://github.com/leouo/semver-bump-automation/commit/ad310d7))
+
+
+### perf
+
+* perf(feature-3): performatic implementation ([869aaa6](https://github.com/leouo/semver-bump-automation/commit/869aaa6))
+* perf(feature-3): performatic implementation ([25d70a1](https://github.com/leouo/semver-bump-automation/commit/25d70a1))
+* perf(feature-5): performatic implementation ([f1027e2](https://github.com/leouo/semver-bump-automation/commit/f1027e2))
+* perf(feature-5): performatic implementation ([317406f](https://github.com/leouo/semver-bump-automation/commit/317406f))
+
+
+### refactor
+
+* refactor(feature-3): refactoring implementation ([88e42db](https://github.com/leouo/semver-bump-automation/commit/88e42db))
+* refactor(feature-5): refactoring implementation ([ca9920f](https://github.com/leouo/semver-bump-automation/commit/ca9920f))
+
+
+### test
+
+* test(feature-3): test implementation ([c29c032](https://github.com/leouo/semver-bump-automation/commit/c29c032))
+* test(feature-5): test implementation ([cecfc3d](https://github.com/leouo/semver-bump-automation/commit/cecfc3d))
+
+
+### chore
+
+* chore(feature-3): chore implementation ([ac72a3f](https://github.com/leouo/semver-bump-automation/commit/ac72a3f))
+* chore(feature-5): chore implementation ([2b13d9c](https://github.com/leouo/semver-bump-automation/commit/2b13d9c))
+
+
+### fix
+
+* fix(feature-3): fix implementation ([a4ebaeb](https://github.com/leouo/semver-bump-automation/commit/a4ebaeb))
+* fix(feature-5): fix implementation ([ecfed07](https://github.com/leouo/semver-bump-automation/commit/ecfed07))
+
+
+### docs
+
+* docs(feature-3): add doc content ([8f17653](https://github.com/leouo/semver-bump-automation/commit/8f17653))
+* docs(feature-5): add doc content ([638cb1a](https://github.com/leouo/semver-bump-automation/commit/638cb1a))
+
+
+
+preset al;skdl;akl;dska;lskd;lasd
+
 ## 3.67.0 (2020-07-10)
 
 
