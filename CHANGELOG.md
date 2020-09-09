@@ -1,7 +1,20 @@
-# Change Log
+# Changelog
 
-All notable changes to this project will be documented in this file.
-See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+## [4.5.0](https://github.com/leouo/semver-bump-automation/compare/v3.70.1...v4.5.0) (2020-09-09)
+
+
+### Features
+
+* **feature-3:** feat implementation ([304ac25](https://github.com/leouo/semver-bump-automation/commit/304ac25f11aa0127af6d7e8175a2361ac8c1cf39))
+* **feature-5:** feat implementation ([6e53ee2](https://github.com/leouo/semver-bump-automation/commit/6e53ee22729f02ce8c795237409d7b12d7cd6497))
+
+
+### Bug Fixes
+
+* **feature-3:** fix implementation ([f9fdfd3](https://github.com/leouo/semver-bump-automation/commit/f9fdfd39bddcc0ca46a3a414c9a9743356a7e8ee))
+* **feature-5:** fix implementation ([795c49c](https://github.com/leouo/semver-bump-automation/commit/795c49c2d94309640ac714a147a3bbb5f6bc6acb))
 
 <a name="3.70.1"></a>
 ## [3.70.1](https://github.com/leouo/semver-bump-automation/compare/v3.70.0...v3.70.1) (2020-09-09)
