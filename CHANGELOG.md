@@ -1,4 +1,36 @@
 ffffffffffff
+## [4.3.0](https://github.com/leouo/semver-bump-automation/compare/v4.2.0...v4.3.0) (2020-09-09)
+
+
+### 🐛 Bug Fixes
+
+* **feature-3:** fix implementation ([6cd26f4](https://github.com/leouo/semver-bump-automation/commit/6cd26f4900ca64eb3b7e31bf18fe439a56697f8a))
+* **feature-5:** fix implementation ([55be39e](https://github.com/leouo/semver-bump-automation/commit/55be39ebddf5b78b8025371f488d8d4fec58b48c))
+
+
+### Tests
+
+* **feature-3:** test implementation ([0e5c539](https://github.com/leouo/semver-bump-automation/commit/0e5c5392540066a44c2b392dc3e1bc7eb344caff))
+* **feature-5:** test implementation ([c84d564](https://github.com/leouo/semver-bump-automation/commit/c84d564d78285fb9bbdd9c0673afbe5006febd09))
+
+
+### 💪 Improvements
+
+* **feature-3:** add doc content ([f48d84a](https://github.com/leouo/semver-bump-automation/commit/f48d84a59f0f81e0528629a6c2f445972d0b9ef9))
+* **feature-3:** performatic implementation ([737f082](https://github.com/leouo/semver-bump-automation/commit/737f082a171501f8b69ba151c8e96a26de9c0cf3))
+* **feature-3:** performatic implementation ([3d595c3](https://github.com/leouo/semver-bump-automation/commit/3d595c3a65aa7c55fa68561670f2ba3dcdd4f43b))
+* **feature-3:** refactoring implementation ([33df469](https://github.com/leouo/semver-bump-automation/commit/33df469f2224eb1313f0719855b9eac463aeea10))
+* **feature-5:** add doc content ([f40b433](https://github.com/leouo/semver-bump-automation/commit/f40b4331873e7a61782d8688cb4fbaa911999783))
+* **feature-5:** performatic implementation ([30e69b7](https://github.com/leouo/semver-bump-automation/commit/30e69b7d5cff803201e61425722125ffeb4a0c5d))
+* **feature-5:** performatic implementation ([0a44bd5](https://github.com/leouo/semver-bump-automation/commit/0a44bd5a5341fea237dc509c4e9a0dacf226f21f))
+* **feature-5:** refactoring implementation ([399b821](https://github.com/leouo/semver-bump-automation/commit/399b821aebb02573da05e1c1ee79f0cd57db5d0f))
+
+
+### 📦 Features
+
+* **feature-3:** feat implementation ([2cb1112](https://github.com/leouo/semver-bump-automation/commit/2cb1112bfa0c3cf1b195e5e63b610e4d608723f1))
+* **feature-5:** feat implementation ([c4b70be](https://github.com/leouo/semver-bump-automation/commit/c4b70be3d011379b9e1a253bf175c173b09fe464))
+
 ## [4.2.0](https://github.com/leouo/semver-bump-automation/compare/v3.69.2...v4.2.0) (2020-09-09)
 
 
