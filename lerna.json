@@ -3,5 +3,5 @@
     "modules/*"
   ],
   "version": "3.69.3",
-  "changelogPreset": "conventional-changelog-angular-emoji"
+  // "changelogPreset": "conventional-changelog-angular-emoji"
 }
