@@ -3,6 +3,32 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [3.70.0](https://github.com/leouo/semver-bump-automation/compare/v3.69.3...v3.70.0) (2020-09-09)
+
+
+### Bug Fixes
+
+* **feature-5:** fix implementation ([8018c79](https://github.com/leouo/semver-bump-automation/commit/8018c79efbb58f69971141a480c357403d09f28b))
+* **feature-5:** fix implementation ([deda25f](https://github.com/leouo/semver-bump-automation/commit/deda25fa58d2b381c612546c4589f8c69d0c550d))
+
+
+### Features
+
+* **feature-5:** feat implementation ([90e6f7b](https://github.com/leouo/semver-bump-automation/commit/90e6f7b8624a3cea79c37acb4c1d40a77163db99))
+* **feature-5:** feat implementation ([6d0cb81](https://github.com/leouo/semver-bump-automation/commit/6d0cb811b333e4cb333f7a810c06ebf325eaeb62))
+
+
+### Performance Improvements
+
+* **feature-5:** performatic implementation ([92d5f31](https://github.com/leouo/semver-bump-automation/commit/92d5f3143c217505bd6fc2c6eb70e7576fba01e5))
+* **feature-5:** performatic implementation ([586960d](https://github.com/leouo/semver-bump-automation/commit/586960d28cc352c8c91d8896480739a89f50ad82))
+* **feature-5:** performatic implementation ([9a1ede6](https://github.com/leouo/semver-bump-automation/commit/9a1ede66b9f9eb1b745fb23c5739cbb4b83b29b0))
+* **feature-5:** performatic implementation ([54d804d](https://github.com/leouo/semver-bump-automation/commit/54d804de744831534d8edeb98f1898aee3c67055))
+
+
+
+
+
 <a name="3.69.3"></a>
 ## [3.69.3](https://github.com/leouo/semver-bump-automation/compare/v4.4.0...v3.69.3) (2020-09-09)
 
