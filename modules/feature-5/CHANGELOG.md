@@ -3,6 +3,49 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="4.6.3"></a>
+## [4.6.3](https://github.com/leouo/semver-bump-automation/compare/v4.6.2...v4.6.3) (2020-09-10)
+
+
+### :book: Documentation
+
+* **feature-5:** add doc content ([47f0b6f](https://github.com/leouo/semver-bump-automation/commit/47f0b6f))
+
+
+### :bug: Bug Fixes
+
+* **feature-5:** fix implementation ([c2fe3c3](https://github.com/leouo/semver-bump-automation/commit/c2fe3c3))
+
+
+### :package: Code Refactoring
+
+* **feature-5:** refactoring implementation ([abf3620](https://github.com/leouo/semver-bump-automation/commit/abf3620))
+
+
+### :rocket: Performance Improvements
+
+* **feature-5:** performatic implementation ([17c40fb](https://github.com/leouo/semver-bump-automation/commit/17c40fb))
+* **feature-5:** performatic implementation ([724f78d](https://github.com/leouo/semver-bump-automation/commit/724f78d))
+
+
+### :rotating_light: Tests
+
+* **feature-5:** test implementation ([bd68e79](https://github.com/leouo/semver-bump-automation/commit/bd68e79))
+
+
+### :sparkles: Features
+
+* **feature-5:** feat implementation ([05f3506](https://github.com/leouo/semver-bump-automation/commit/05f3506))
+
+
+### :ticket: Chores
+
+* **feature-5:** chore implementation ([d23d9c9](https://github.com/leouo/semver-bump-automation/commit/d23d9c9))
+
+
+
+
+
 <a name="4.6.2"></a>
 ## [4.6.2](https://github.com/leouo/semver-bump-automation/compare/v4.6.1...v4.6.2) (2020-09-10)
 
