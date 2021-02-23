@@ -1,5 +1,7 @@
 {
-  "packages": ["modules/*"],
-  "version": "7.0.1",
+  "packages": [
+    "modules/*"
+  ],
+  "version": "7.1.0",
   "changelogPreset": "conventional-changelog-metahub"
 }
