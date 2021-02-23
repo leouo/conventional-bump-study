@@ -1,7 +1,5 @@
 {
-  "packages": [
-    "modules/*"
-  ],
+  "packages": ["modules/*"],
   "version": "7.0.1",
-  "changelogPreset": "conventional-changelog-angular-emoji"
+  "changelogPreset": "conventional-changelog-metahub"
 }
