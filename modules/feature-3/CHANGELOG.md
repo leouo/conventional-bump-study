@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [7.1.2](https://github.com/leouo/semver-bump-automation/compare/v7.1.1...v7.1.2) (2021-02-23)
+
+
+### ♻️ Chores
+
+* asdasdad ([b1c4516](https://github.com/leouo/semver-bump-automation/commit/b1c45168335872613265ecf77a176f5611e638c4))
+
+
+
+
+
 # [7.1.0](https://github.com/leouo/semver-bump-automation/compare/v7.0.1...v7.1.0) (2021-02-23)
 
 
