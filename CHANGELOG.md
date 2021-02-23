@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.9.1](https://github.com/leouo/semver-bump-automation/compare/v4.9.0...v4.9.1) (2021-02-23)
+
+
+### ♻️ Chores
+
+* testing new changelog preset auto semver chore ([f675edc](https://github.com/leouo/semver-bump-automation/commit/f675edcc4da8c979c2bf78d09ba4d3b116c54db1))
+
+
+
+
+
 # [4.9.0](https://github.com/leouo/semver-bump-automation/compare/v4.6.7...v4.9.0) (2021-02-23)
 
 
