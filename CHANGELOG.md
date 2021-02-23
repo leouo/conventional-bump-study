@@ -1,4 +1,36 @@
 This is a custom changelog header 💁🏻‍♂️
+## [4.8.0](https://github.com/leouo/semver-bump-automation/compare/v4.7.0...v4.8.0) (2021-02-23)
+
+
+### 🐛 Bug Fixes
+
+* **feature-3:** fix implementation ([cd04354](https://github.com/leouo/semver-bump-automation/commit/cd043545da4078b9fa5f55d885ca6381db862974))
+* **feature-5:** fix implementation ([808e352](https://github.com/leouo/semver-bump-automation/commit/808e352c348b739d96dddb64ad1680befcef9c28))
+
+
+### Tests
+
+* **feature-3:** test implementation ([18f3d85](https://github.com/leouo/semver-bump-automation/commit/18f3d8583f6c5e8da61a2a901f52c2d10a4c5d61))
+* **feature-5:** test implementation ([683b37f](https://github.com/leouo/semver-bump-automation/commit/683b37f41548f7e26f008bc19051838baf6382a8))
+
+
+### 💪 Improvements
+
+* **feature-3:** add doc content ([d2f752a](https://github.com/leouo/semver-bump-automation/commit/d2f752a6e997a671ec2dbeb0d8fb39fd3946f6c9))
+* **feature-3:** performatic implementation ([00b2356](https://github.com/leouo/semver-bump-automation/commit/00b235669ab9102d70afda8c2a06857ead6cecec))
+* **feature-3:** performatic implementation ([5e3116c](https://github.com/leouo/semver-bump-automation/commit/5e3116c914ef85aac67654db6e0326771a85cde1))
+* **feature-3:** refactoring implementation ([c4090f4](https://github.com/leouo/semver-bump-automation/commit/c4090f412b5a0be946fb0b49174ac31a1331ce6a))
+* **feature-5:** add doc content ([e2721d9](https://github.com/leouo/semver-bump-automation/commit/e2721d91dd7b068a66c217b1be85769d1f58314f))
+* **feature-5:** performatic implementation ([3821e88](https://github.com/leouo/semver-bump-automation/commit/3821e8848be9e06d9ac41ba6d1cad12ca5b39f91))
+* **feature-5:** performatic implementation ([ee11023](https://github.com/leouo/semver-bump-automation/commit/ee11023b7535068878e2181778ac39ea4558fec7))
+* **feature-5:** refactoring implementation ([1f139d8](https://github.com/leouo/semver-bump-automation/commit/1f139d84845c08b409b493d073a404ebd2cd143e))
+
+
+### 📦 Features
+
+* **feature-3:** feat implementation ([55e7ecd](https://github.com/leouo/semver-bump-automation/commit/55e7ecdb9fe3fe478402218208a003a0b98931f5))
+* **feature-5:** feat implementation ([cf0c0e2](https://github.com/leouo/semver-bump-automation/commit/cf0c0e2828da76e75f8c75c67841e9cb2f350e34))
+
 ## [4.7.0](https://github.com/leouo/semver-bump-automation/compare/v4.6.4...v4.7.0) (2021-02-23)
 
 
