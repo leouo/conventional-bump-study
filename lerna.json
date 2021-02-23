@@ -3,5 +3,5 @@
     "modules/*"
   ],
   "version": "4.6.7",
-  "changelogPreset": "conventional-changelog-angular-emoji"
+  "changelogPreset": "conventional-changelog-metahub"
 }

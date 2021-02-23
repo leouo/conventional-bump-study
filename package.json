@@ -22,6 +22,7 @@
     "conventional-changelog-angular-emoji": "^0.2.2",
     "conventional-changelog-cli": "^2.0.34",
     "conventional-changelog-conventionalcommits": "^4.3.0",
+    "conventional-changelog-metahub": "^4.0.1",
     "lerna": "^3.22.1",
     "standard-version": "^8.0.0"
   }
