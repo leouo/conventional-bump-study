@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="4.6.7"></a>
+## [4.6.7](https://github.com/leouo/semver-bump-automation/compare/v4.6.6...v4.6.7) (2021-02-23)
+
+
+### :sparkles: Features
+
+* **feature-5:** some testing semver ([39fd661](https://github.com/leouo/semver-bump-automation/commit/39fd661))
+
+
+
+
+
 <a name="4.6.6"></a>
 ## [4.6.6](https://github.com/leouo/semver-bump-automation/compare/v4.6.5...v4.6.6) (2021-02-23)
 
