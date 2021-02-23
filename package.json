@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "release": "standard-version",
-    "lerna": "lerna version --conventional-commits -y",
+    "lerna": "lerna version prerelease --conventional-commits -y",
     "conventional-changelog": "conventional-changelog-cli -p angular -i CHANGELOG.md -s"
   },
   "repository": {
