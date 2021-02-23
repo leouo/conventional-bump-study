@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.0.1](https://github.com/leouo/semver-bump-automation/compare/v5.0.0...v5.0.1) (2021-02-23)
+
+
+### 🐛 Bug Fixes
+
+* **feature-5:** fixing testing ([1d8e95c](https://github.com/leouo/semver-bump-automation/commit/1d8e95cfac0cc6e319faf2b94a0722e54bc8e22e))
+
+
+
+
+
 # [5.0.0](https://github.com/leouo/semver-bump-automation/compare/v4.10.0...v5.0.0) (2021-02-23)
 
 
