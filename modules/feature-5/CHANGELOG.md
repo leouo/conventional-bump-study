@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [7.1.1](https://github.com/leouo/semver-bump-automation/compare/v7.1.0...v7.1.1) (2021-02-23)
+
+
+### 📦 Code Refactoring
+
+* **test:** testing ([24d4a0b](https://github.com/leouo/semver-bump-automation/commit/24d4a0b8885bc278ed4169f2ac8106875cc2f24c))
+
+
+
+
+
 # [7.1.0](https://github.com/leouo/semver-bump-automation/compare/v7.0.1...v7.1.0) (2021-02-23)
 
 
