@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.3.1](https://github.com/leouo/semver-bump-automation/compare/feature-5@5.3.0...feature-5@5.3.1) (2021-02-23)
+
+
+### ♻️ Chores
+
+* testing ([3f8118e](https://github.com/leouo/semver-bump-automation/commit/3f8118e624e7f11277480c8578eaa3f6df8b85b2))
+
+
+
+
+
 # [5.3.0](https://github.com/leouo/semver-bump-automation/compare/feature-5@5.2.0...feature-5@5.3.0) (2021-02-23)
 
 
