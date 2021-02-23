@@ -5,3 +5,4 @@ Run the following command to drop an brand new release:
 ```
 npm run release
 ```
+.
