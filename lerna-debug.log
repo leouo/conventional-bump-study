@@ -9,86 +9,99 @@
 0 silly argv }
 1 notice cli v3.22.1
 2 verbose rootPath /Users/vitor.matsumura/Documents/projects/conventional-bump-study
-3 info current version 4.6.7
+3 info current version 4.7.0
 4 silly isAnythingCommitted
 5 verbose isAnythingCommitted 1
 6 silly currentBranch
 7 verbose currentBranch master
 8 silly remoteBranchExists
 9 silly isBehindUpstream
-10 silly isBehindUpstream master is behind origin/master by 0 commit(s) and ahead by 0
+10 silly isBehindUpstream master is behind origin/master by 0 commit(s) and ahead by 17
 11 silly hasTags
 12 verbose hasTags true
-13 silly git-describe.sync "v4.6.7-17-gfddd9a5" => {"lastTagName":"v4.6.7","lastVersion":"v4.6.7","refCount":"17","sha":"fddd9a5","isDirty":false}
+13 silly git-describe.sync "v4.6.7-34-g8adfb03" => {"lastTagName":"v4.6.7","lastVersion":"v4.6.7","refCount":"34","sha":"8adfb03","isDirty":false}
 14 info Looking for changed packages since v4.6.7
 15 silly checking diff modules/feature-3
+16 silly found diff in modules/feature-3/CHANGELOG.md
 16 silly found diff in modules/feature-3/Feature-3.md
 16 silly found diff in modules/feature-3/README.md
-17 verbose filtered diff [ 'modules/feature-3/Feature-3.md', 'modules/feature-3/README.md' ]
+16 silly found diff in modules/feature-3/package.json
+17 verbose filtered diff [
+17 verbose filtered diff   'modules/feature-3/CHANGELOG.md',
+17 verbose filtered diff   'modules/feature-3/Feature-3.md',
+17 verbose filtered diff   'modules/feature-3/README.md',
+17 verbose filtered diff   'modules/feature-3/package.json'
+17 verbose filtered diff ]
 18 silly checking diff modules/feature-5
+19 silly found diff in modules/feature-5/CHANGELOG.md
 19 silly found diff in modules/feature-5/Feature-5.md
 19 silly found diff in modules/feature-5/README.md
-20 verbose filtered diff [ 'modules/feature-5/Feature-5.md', 'modules/feature-5/README.md' ]
+19 silly found diff in modules/feature-5/package.json
+20 verbose filtered diff [
+20 verbose filtered diff   'modules/feature-5/CHANGELOG.md',
+20 verbose filtered diff   'modules/feature-5/Feature-5.md',
+20 verbose filtered diff   'modules/feature-5/README.md',
+20 verbose filtered diff   'modules/feature-5/package.json'
+20 verbose filtered diff ]
 21 verbose updated feature-3
 22 verbose updated feature-5
-23 verbose git-describe undefined => "v4.6.7-17-gfddd9a5"
-24 silly git-describe parsed => {"lastTagName":"v4.6.7","lastVersion":"v4.6.7","refCount":"17","sha":"fddd9a5","isDirty":false}
-25 verbose version Overriding version of feature-3 from 4.6.6 to 4.6.7
-26 silly fixed for feature-3 at /Users/vitor.matsumura/Documents/projects/conventional-bump-study/modules/feature-3
-27 verbose getChangelogConfig using preset "conventional-changelog-metahub"
-28 silly npa Result {
-28 silly npa   type: 'tag',
-28 silly npa   registry: true,
-28 silly npa   where: undefined,
-28 silly npa   raw: 'conventional-changelog-metahub',
-28 silly npa   name: 'conventional-changelog-metahub',
-28 silly npa   escapedName: 'conventional-changelog-metahub',
-28 silly npa   scope: undefined,
-28 silly npa   rawSpec: '',
-28 silly npa   saveSpec: null,
-28 silly npa   fetchSpec: 'latest',
-28 silly npa   gitRange: undefined,
-28 silly npa   gitCommittish: undefined,
-28 silly npa   hosted: undefined
-28 silly npa }
-29 verbose getChangelogConfig Attempting to resolve preset "conventional-changelog-metahub"
-30 info getChangelogConfig Successfully resolved preset "conventional-changelog-metahub"
-31 verbose fixed increment 4.6.7 by minor
-32 silly fixed for feature-5 at /Users/vitor.matsumura/Documents/projects/conventional-bump-study/modules/feature-5
-33 verbose fixed increment 4.6.7 by minor
-34 info auto-confirmed
-35 info execute Skipping releases
-36 silly lifecycle No script for "preversion" in "semver-bump-automation", continuing
-37 silly lifecycle No script for "preversion" in "feature-3", continuing
-38 silly lifecycle No script for "preversion" in "feature-5", continuing
-39 silly lifecycle No script for "version" in "feature-3", continuing
-40 silly fixed for feature-3 at /Users/vitor.matsumura/Documents/projects/conventional-bump-study/modules/feature-3
-41 silly lifecycle No script for "version" in "feature-5", continuing
-42 silly fixed for feature-5 at /Users/vitor.matsumura/Documents/projects/conventional-bump-study/modules/feature-5
-43 silly fixed writing new entry: "# [4.7.0](https://github.com/leouo/semver-bump-automation/compare/v4.6.7...v4.7.0) (2021-02-23)\n\n\n### ✨ Features\n\n* **feature-3:** feat implementation ([b15afee](https://github.com/leouo/semver-bump-automation/commit/b15afeef65f7a466e38dc4c88558f3c6b722d6d0))\n\n\n### 🐛 Bug Fixes\n\n* **feature-3:** fix implementation ([6fa7db7](https://github.com/leouo/semver-bump-automation/commit/6fa7db7e1a3a0b71647f62617795cfc06d3384da))\n\n\n### 🚀 Performance Improvements\n\n* **feature-3:** performatic implementation ([2fad9e7](https://github.com/leouo/semver-bump-automation/commit/2fad9e7cc756551644d5958014cb1b9dc3aa5950))\n* **feature-3:** performatic implementation ([f6d5965](https://github.com/leouo/semver-bump-automation/commit/f6d5965d4a02dd5d39d0765686527fdd22cc8292))\n\n\n### 📦 Code Refactoring\n\n* **feature-3:** refactoring implementation ([2ec208c](https://github.com/leouo/semver-bump-automation/commit/2ec208c197df62d561570fedfa502ef6931fd68d))\n\n\n### 📚 Documentation\n\n* **feature-3:** add doc content ([2f20b55](https://github.com/leouo/semver-bump-automation/commit/2f20b55cc3a02b24fa2e4d72b86e8f31bfda9362))\n\n\n### 🚨 Tests\n\n* **feature-3:** test implementation ([261ef34](https://github.com/leouo/semver-bump-automation/commit/261ef3417fbe1f11ebcdc3fb5a75028f63f2f599))\n\n\n### ♻️ Chores\n\n* **feature-3:** chore implementation ([f604084](https://github.com/leouo/semver-bump-automation/commit/f604084d8ed0cef3d584e3141438126694774cae))\n\n\n\n"
-44 verbose fixed wrote /Users/vitor.matsumura/Documents/projects/conventional-bump-study/modules/feature-3/CHANGELOG.md
-45 silly fixed writing new entry: "# [4.7.0](https://github.com/leouo/semver-bump-automation/compare/v4.6.7...v4.7.0) (2021-02-23)\n\n\n### ✨ Features\n\n* **feature-5:** feat implementation ([fddd9a5](https://github.com/leouo/semver-bump-automation/commit/fddd9a54d70f3426360d13f13c4722b1202aeabc))\n\n\n### 🐛 Bug Fixes\n\n* **feature-5:** fix implementation ([4bba40c](https://github.com/leouo/semver-bump-automation/commit/4bba40cf7c39d1bcf7752cbe949ea4a5b69e440a))\n\n\n### 🚀 Performance Improvements\n\n* **feature-5:** performatic implementation ([0136443](https://github.com/leouo/semver-bump-automation/commit/0136443d7d54b4273a9f6be693279c122a82949c))\n* **feature-5:** performatic implementation ([dc7c901](https://github.com/leouo/semver-bump-automation/commit/dc7c9014aac2a18a976feeae17deabba54b11528))\n\n\n### 📦 Code Refactoring\n\n* **feature-5:** refactoring implementation ([cce7cff](https://github.com/leouo/semver-bump-automation/commit/cce7cff5417d1ff779f4cf270c3ace1abacb3661))\n\n\n### 📚 Documentation\n\n* **feature-5:** add doc content ([481db85](https://github.com/leouo/semver-bump-automation/commit/481db85f76205733b3cb19301ffbe83e9c8ecb2f))\n\n\n### 🚨 Tests\n\n* **feature-5:** test implementation ([46c9e83](https://github.com/leouo/semver-bump-automation/commit/46c9e830dbf927cd047f55290e0a1025f2f658af))\n\n\n### ♻️ Chores\n\n* **feature-5:** chore implementation ([995337a](https://github.com/leouo/semver-bump-automation/commit/995337a914111c985815dcb0a5670a1d0c37ca99))\n\n\n\n"
-46 verbose fixed wrote /Users/vitor.matsumura/Documents/projects/conventional-bump-study/modules/feature-5/CHANGELOG.md
-47 silly root for semver-bump-automation at /Users/vitor.matsumura/Documents/projects/conventional-bump-study
-48 silly root writing new entry: "# [4.7.0](https://github.com/leouo/semver-bump-automation/compare/v4.6.7...v4.7.0) (2021-02-23)\n\n\n### ✨ Features\n\n* **feature-3:** feat implementation ([b15afee](https://github.com/leouo/semver-bump-automation/commit/b15afeef65f7a466e38dc4c88558f3c6b722d6d0))\n* **feature-5:** feat implementation ([fddd9a5](https://github.com/leouo/semver-bump-automation/commit/fddd9a54d70f3426360d13f13c4722b1202aeabc))\n\n\n### 🐛 Bug Fixes\n\n* **feature-3:** fix implementation ([6fa7db7](https://github.com/leouo/semver-bump-automation/commit/6fa7db7e1a3a0b71647f62617795cfc06d3384da))\n* **feature-5:** fix implementation ([4bba40c](https://github.com/leouo/semver-bump-automation/commit/4bba40cf7c39d1bcf7752cbe949ea4a5b69e440a))\n\n\n### 🚀 Performance Improvements\n\n* **feature-3:** performatic implementation ([2fad9e7](https://github.com/leouo/semver-bump-automation/commit/2fad9e7cc756551644d5958014cb1b9dc3aa5950))\n* **feature-3:** performatic implementation ([f6d5965](https://github.com/leouo/semver-bump-automation/commit/f6d5965d4a02dd5d39d0765686527fdd22cc8292))\n* **feature-5:** performatic implementation ([0136443](https://github.com/leouo/semver-bump-automation/commit/0136443d7d54b4273a9f6be693279c122a82949c))\n* **feature-5:** performatic implementation ([dc7c901](https://github.com/leouo/semver-bump-automation/commit/dc7c9014aac2a18a976feeae17deabba54b11528))\n\n\n### 📦 Code Refactoring\n\n* **feature-3:** refactoring implementation ([2ec208c](https://github.com/leouo/semver-bump-automation/commit/2ec208c197df62d561570fedfa502ef6931fd68d))\n* **feature-5:** refactoring implementation ([cce7cff](https://github.com/leouo/semver-bump-automation/commit/cce7cff5417d1ff779f4cf270c3ace1abacb3661))\n\n\n### 📚 Documentation\n\n* **feature-3:** add doc content ([2f20b55](https://github.com/leouo/semver-bump-automation/commit/2f20b55cc3a02b24fa2e4d72b86e8f31bfda9362))\n* **feature-5:** add doc content ([481db85](https://github.com/leouo/semver-bump-automation/commit/481db85f76205733b3cb19301ffbe83e9c8ecb2f))\n\n\n### 🚨 Tests\n\n* **feature-3:** test implementation ([261ef34](https://github.com/leouo/semver-bump-automation/commit/261ef3417fbe1f11ebcdc3fb5a75028f63f2f599))\n* **feature-5:** test implementation ([46c9e83](https://github.com/leouo/semver-bump-automation/commit/46c9e830dbf927cd047f55290e0a1025f2f658af))\n\n\n### ♻️ Chores\n\n* **feature-3:** chore implementation ([f604084](https://github.com/leouo/semver-bump-automation/commit/f604084d8ed0cef3d584e3141438126694774cae))\n* **feature-5:** chore implementation ([995337a](https://github.com/leouo/semver-bump-automation/commit/995337a914111c985815dcb0a5670a1d0c37ca99))\n* changing changelog preset ([047c4f1](https://github.com/leouo/semver-bump-automation/commit/047c4f18334a3dbe9c447d0c1331af6e1af77528))\n\n\n\n"
-49 verbose root wrote /Users/vitor.matsumura/Documents/projects/conventional-bump-study/CHANGELOG.md
-50 silly lifecycle No script for "version" in "semver-bump-automation", continuing
-51 silly gitAdd [
-51 silly gitAdd   'modules/feature-3/package.json',
-51 silly gitAdd   'modules/feature-5/package.json',
-51 silly gitAdd   'modules/feature-3/CHANGELOG.md',
-51 silly gitAdd   'modules/feature-5/CHANGELOG.md',
-51 silly gitAdd   'CHANGELOG.md',
-51 silly gitAdd   'lerna.json'
-51 silly gitAdd ]
-52 silly gitCommit v4.7.0
-53 verbose git [ 'commit', '-m', 'v4.7.0' ]
-54 silly gitTag v4.7.0
-55 verbose git [ 'tag', 'v4.7.0', '-m', 'v4.7.0' ]
-56 error Error: Command failed: git tag v4.7.0 -m v4.7.0
-56 error fatal: tag 'v4.7.0' already exists
-56 error
-56 error     at makeError (/Users/vitor.matsumura/Documents/projects/conventional-bump-study/node_modules/execa/index.js:174:9)
-56 error     at /Users/vitor.matsumura/Documents/projects/conventional-bump-study/node_modules/execa/index.js:278:16
-56 error     at runMicrotasks (<anonymous>)
-56 error     at processTicksAndRejections (internal/process/task_queues.js:93:5)
+23 verbose git-describe undefined => "v4.6.7-34-g8adfb03"
+24 silly git-describe parsed => {"lastTagName":"v4.6.7","lastVersion":"v4.6.7","refCount":"34","sha":"8adfb03","isDirty":false}
+25 silly fixed for feature-3 at /Users/vitor.matsumura/Documents/projects/conventional-bump-study/modules/feature-3
+26 verbose getChangelogConfig using preset "conventional-changelog-metahub"
+27 silly npa Result {
+27 silly npa   type: 'tag',
+27 silly npa   registry: true,
+27 silly npa   where: undefined,
+27 silly npa   raw: 'conventional-changelog-metahub',
+27 silly npa   name: 'conventional-changelog-metahub',
+27 silly npa   escapedName: 'conventional-changelog-metahub',
+27 silly npa   scope: undefined,
+27 silly npa   rawSpec: '',
+27 silly npa   saveSpec: null,
+27 silly npa   fetchSpec: 'latest',
+27 silly npa   gitRange: undefined,
+27 silly npa   gitCommittish: undefined,
+27 silly npa   hosted: undefined
+27 silly npa }
+28 verbose getChangelogConfig Attempting to resolve preset "conventional-changelog-metahub"
+29 info getChangelogConfig Successfully resolved preset "conventional-changelog-metahub"
+30 verbose fixed increment 4.7.0 by minor
+31 silly fixed for feature-5 at /Users/vitor.matsumura/Documents/projects/conventional-bump-study/modules/feature-5
+32 verbose fixed increment 4.7.0 by minor
+33 info auto-confirmed
+34 info execute Skipping releases
+35 silly lifecycle No script for "preversion" in "semver-bump-automation", continuing
+36 silly lifecycle No script for "preversion" in "feature-3", continuing
+37 silly lifecycle No script for "preversion" in "feature-5", continuing
+38 silly lifecycle No script for "version" in "feature-5", continuing
+39 silly fixed for feature-5 at /Users/vitor.matsumura/Documents/projects/conventional-bump-study/modules/feature-5
+40 silly lifecycle No script for "version" in "feature-3", continuing
+41 silly fixed for feature-3 at /Users/vitor.matsumura/Documents/projects/conventional-bump-study/modules/feature-3
+42 silly fixed writing new entry: "# [4.8.0](https://github.com/leouo/semver-bump-automation/compare/v4.6.7...v4.8.0) (2021-02-23)\n\n\n### ✨ Features\n\n* **feature-5:** feat implementation ([8adfb03](https://github.com/leouo/semver-bump-automation/commit/8adfb034193bb63347ed222d6d9fd3be12479a72))\n* **feature-5:** feat implementation ([fddd9a5](https://github.com/leouo/semver-bump-automation/commit/fddd9a54d70f3426360d13f13c4722b1202aeabc))\n\n\n### 🐛 Bug Fixes\n\n* **feature-5:** fix implementation ([ad89e07](https://github.com/leouo/semver-bump-automation/commit/ad89e07a3a532fe698ae634da3b2cc5f5b24bd01))\n* **feature-5:** fix implementation ([4bba40c](https://github.com/leouo/semver-bump-automation/commit/4bba40cf7c39d1bcf7752cbe949ea4a5b69e440a))\n\n\n### 🚀 Performance Improvements\n\n* **feature-5:** performatic implementation ([582b202](https://github.com/leouo/semver-bump-automation/commit/582b2022a2e5525a1d6a602ecad007c4e6ac7617))\n* **feature-5:** performatic implementation ([2216e3e](https://github.com/leouo/semver-bump-automation/commit/2216e3e83d78b76e41ffb3e7e214b7390ab3018c))\n* **feature-5:** performatic implementation ([0136443](https://github.com/leouo/semver-bump-automation/commit/0136443d7d54b4273a9f6be693279c122a82949c))\n* **feature-5:** performatic implementation ([dc7c901](https://github.com/leouo/semver-bump-automation/commit/dc7c9014aac2a18a976feeae17deabba54b11528))\n\n\n### 📦 Code Refactoring\n\n* **feature-5:** refactoring implementation ([5cf50c8](https://github.com/leouo/semver-bump-automation/commit/5cf50c830a2cf2f532b6e1a40f0bb58cdc366ed5))\n* **feature-5:** refactoring implementation ([cce7cff](https://github.com/leouo/semver-bump-automation/commit/cce7cff5417d1ff779f4cf270c3ace1abacb3661))\n\n\n### 📚 Documentation\n\n* **feature-5:** add doc content ([cd4049a](https://github.com/leouo/semver-bump-automation/commit/cd4049af4a0e61c5b18e75c64e47419735c0fe9f))\n* **feature-5:** add doc content ([481db85](https://github.com/leouo/semver-bump-automation/commit/481db85f76205733b3cb19301ffbe83e9c8ecb2f))\n\n\n### 🚨 Tests\n\n* **feature-5:** test implementation ([6930df0](https://github.com/leouo/semver-bump-automation/commit/6930df0ed9bee04da42ec99cede25b431f173481))\n* **feature-5:** test implementation ([46c9e83](https://github.com/leouo/semver-bump-automation/commit/46c9e830dbf927cd047f55290e0a1025f2f658af))\n\n\n### ♻️ Chores\n\n* **feature-5:** chore implementation ([1ca5de5](https://github.com/leouo/semver-bump-automation/commit/1ca5de54c2268d6e2834b3c95d5733ed23dc858d))\n* **feature-5:** chore implementation ([995337a](https://github.com/leouo/semver-bump-automation/commit/995337a914111c985815dcb0a5670a1d0c37ca99))\n\n\n\n"
+43 verbose fixed wrote /Users/vitor.matsumura/Documents/projects/conventional-bump-study/modules/feature-5/CHANGELOG.md
+44 silly fixed writing new entry: "# [4.8.0](https://github.com/leouo/semver-bump-automation/compare/v4.6.7...v4.8.0) (2021-02-23)\n\n\n### ✨ Features\n\n* **feature-3:** feat implementation ([c7dafd7](https://github.com/leouo/semver-bump-automation/commit/c7dafd7103d4e50c07c30215b4bbb1585cf2b2dd))\n* **feature-3:** feat implementation ([b15afee](https://github.com/leouo/semver-bump-automation/commit/b15afeef65f7a466e38dc4c88558f3c6b722d6d0))\n\n\n### 🐛 Bug Fixes\n\n* **feature-3:** fix implementation ([4b77249](https://github.com/leouo/semver-bump-automation/commit/4b772491cc098bee9b8f89476f8b6ca0716fdb51))\n* **feature-3:** fix implementation ([6fa7db7](https://github.com/leouo/semver-bump-automation/commit/6fa7db7e1a3a0b71647f62617795cfc06d3384da))\n\n\n### 🚀 Performance Improvements\n\n* **feature-3:** performatic implementation ([5eec9ad](https://github.com/leouo/semver-bump-automation/commit/5eec9ad5f77a3bc803c6b5dd93586974525d6423))\n* **feature-3:** performatic implementation ([2bafa1b](https://github.com/leouo/semver-bump-automation/commit/2bafa1be953c6a28c1028fb5fc71389572a278eb))\n* **feature-3:** performatic implementation ([2fad9e7](https://github.com/leouo/semver-bump-automation/commit/2fad9e7cc756551644d5958014cb1b9dc3aa5950))\n* **feature-3:** performatic implementation ([f6d5965](https://github.com/leouo/semver-bump-automation/commit/f6d5965d4a02dd5d39d0765686527fdd22cc8292))\n\n\n### 📦 Code Refactoring\n\n* **feature-3:** refactoring implementation ([aa3a2e9](https://github.com/leouo/semver-bump-automation/commit/aa3a2e90fabb92eab4cd3b5a40b5d6821d734799))\n* **feature-3:** refactoring implementation ([2ec208c](https://github.com/leouo/semver-bump-automation/commit/2ec208c197df62d561570fedfa502ef6931fd68d))\n\n\n### 📚 Documentation\n\n* **feature-3:** add doc content ([3e80282](https://github.com/leouo/semver-bump-automation/commit/3e80282dca2c710f798e621bce1e3c3bd9392e94))\n* **feature-3:** add doc content ([2f20b55](https://github.com/leouo/semver-bump-automation/commit/2f20b55cc3a02b24fa2e4d72b86e8f31bfda9362))\n\n\n### 🚨 Tests\n\n* **feature-3:** test implementation ([64af988](https://github.com/leouo/semver-bump-automation/commit/64af988a216a61ae8ca9910e5a02e2ff6cfc2e61))\n* **feature-3:** test implementation ([261ef34](https://github.com/leouo/semver-bump-automation/commit/261ef3417fbe1f11ebcdc3fb5a75028f63f2f599))\n\n\n### ♻️ Chores\n\n* **feature-3:** chore implementation ([44b546e](https://github.com/leouo/semver-bump-automation/commit/44b546ea89cd4a848b5754ddc398ae49f64a3b58))\n* **feature-3:** chore implementation ([f604084](https://github.com/leouo/semver-bump-automation/commit/f604084d8ed0cef3d584e3141438126694774cae))\n\n\n\n"
+45 verbose fixed wrote /Users/vitor.matsumura/Documents/projects/conventional-bump-study/modules/feature-3/CHANGELOG.md
+46 silly root for semver-bump-automation at /Users/vitor.matsumura/Documents/projects/conventional-bump-study
+47 silly root writing new entry: "# [4.8.0](https://github.com/leouo/semver-bump-automation/compare/v4.6.7...v4.8.0) (2021-02-23)\n\n\n### ✨ Features\n\n* **feature-3:** feat implementation ([c7dafd7](https://github.com/leouo/semver-bump-automation/commit/c7dafd7103d4e50c07c30215b4bbb1585cf2b2dd))\n* **feature-3:** feat implementation ([b15afee](https://github.com/leouo/semver-bump-automation/commit/b15afeef65f7a466e38dc4c88558f3c6b722d6d0))\n* **feature-5:** feat implementation ([8adfb03](https://github.com/leouo/semver-bump-automation/commit/8adfb034193bb63347ed222d6d9fd3be12479a72))\n* **feature-5:** feat implementation ([fddd9a5](https://github.com/leouo/semver-bump-automation/commit/fddd9a54d70f3426360d13f13c4722b1202aeabc))\n\n\n### 🐛 Bug Fixes\n\n* **feature-3:** fix implementation ([4b77249](https://github.com/leouo/semver-bump-automation/commit/4b772491cc098bee9b8f89476f8b6ca0716fdb51))\n* **feature-3:** fix implementation ([6fa7db7](https://github.com/leouo/semver-bump-automation/commit/6fa7db7e1a3a0b71647f62617795cfc06d3384da))\n* **feature-5:** fix implementation ([ad89e07](https://github.com/leouo/semver-bump-automation/commit/ad89e07a3a532fe698ae634da3b2cc5f5b24bd01))\n* **feature-5:** fix implementation ([4bba40c](https://github.com/leouo/semver-bump-automation/commit/4bba40cf7c39d1bcf7752cbe949ea4a5b69e440a))\n\n\n### 🚀 Performance Improvements\n\n* **feature-3:** performatic implementation ([5eec9ad](https://github.com/leouo/semver-bump-automation/commit/5eec9ad5f77a3bc803c6b5dd93586974525d6423))\n* **feature-3:** performatic implementation ([2bafa1b](https://github.com/leouo/semver-bump-automation/commit/2bafa1be953c6a28c1028fb5fc71389572a278eb))\n* **feature-3:** performatic implementation ([2fad9e7](https://github.com/leouo/semver-bump-automation/commit/2fad9e7cc756551644d5958014cb1b9dc3aa5950))\n* **feature-3:** performatic implementation ([f6d5965](https://github.com/leouo/semver-bump-automation/commit/f6d5965d4a02dd5d39d0765686527fdd22cc8292))\n* **feature-5:** performatic implementation ([582b202](https://github.com/leouo/semver-bump-automation/commit/582b2022a2e5525a1d6a602ecad007c4e6ac7617))\n* **feature-5:** performatic implementation ([2216e3e](https://github.com/leouo/semver-bump-automation/commit/2216e3e83d78b76e41ffb3e7e214b7390ab3018c))\n* **feature-5:** performatic implementation ([0136443](https://github.com/leouo/semver-bump-automation/commit/0136443d7d54b4273a9f6be693279c122a82949c))\n* **feature-5:** performatic implementation ([dc7c901](https://github.com/leouo/semver-bump-automation/commit/dc7c9014aac2a18a976feeae17deabba54b11528))\n\n\n### 📦 Code Refactoring\n\n* **feature-3:** refactoring implementation ([aa3a2e9](https://github.com/leouo/semver-bump-automation/commit/aa3a2e90fabb92eab4cd3b5a40b5d6821d734799))\n* **feature-3:** refactoring implementation ([2ec208c](https://github.com/leouo/semver-bump-automation/commit/2ec208c197df62d561570fedfa502ef6931fd68d))\n* **feature-5:** refactoring implementation ([5cf50c8](https://github.com/leouo/semver-bump-automation/commit/5cf50c830a2cf2f532b6e1a40f0bb58cdc366ed5))\n* **feature-5:** refactoring implementation ([cce7cff](https://github.com/leouo/semver-bump-automation/commit/cce7cff5417d1ff779f4cf270c3ace1abacb3661))\n\n\n### 📚 Documentation\n\n* **feature-3:** add doc content ([3e80282](https://github.com/leouo/semver-bump-automation/commit/3e80282dca2c710f798e621bce1e3c3bd9392e94))\n* **feature-3:** add doc content ([2f20b55](https://github.com/leouo/semver-bump-automation/commit/2f20b55cc3a02b24fa2e4d72b86e8f31bfda9362))\n* **feature-5:** add doc content ([cd4049a](https://github.com/leouo/semver-bump-automation/commit/cd4049af4a0e61c5b18e75c64e47419735c0fe9f))\n* **feature-5:** add doc content ([481db85](https://github.com/leouo/semver-bump-automation/commit/481db85f76205733b3cb19301ffbe83e9c8ecb2f))\n\n\n### 🚨 Tests\n\n* **feature-3:** test implementation ([64af988](https://github.com/leouo/semver-bump-automation/commit/64af988a216a61ae8ca9910e5a02e2ff6cfc2e61))\n* **feature-3:** test implementation ([261ef34](https://github.com/leouo/semver-bump-automation/commit/261ef3417fbe1f11ebcdc3fb5a75028f63f2f599))\n* **feature-5:** test implementation ([6930df0](https://github.com/leouo/semver-bump-automation/commit/6930df0ed9bee04da42ec99cede25b431f173481))\n* **feature-5:** test implementation ([46c9e83](https://github.com/leouo/semver-bump-automation/commit/46c9e830dbf927cd047f55290e0a1025f2f658af))\n\n\n### ♻️ Chores\n\n* **feature-3:** chore implementation ([44b546e](https://github.com/leouo/semver-bump-automation/commit/44b546ea89cd4a848b5754ddc398ae49f64a3b58))\n* **feature-3:** chore implementation ([f604084](https://github.com/leouo/semver-bump-automation/commit/f604084d8ed0cef3d584e3141438126694774cae))\n* **feature-5:** chore implementation ([1ca5de5](https://github.com/leouo/semver-bump-automation/commit/1ca5de54c2268d6e2834b3c95d5733ed23dc858d))\n* **feature-5:** chore implementation ([995337a](https://github.com/leouo/semver-bump-automation/commit/995337a914111c985815dcb0a5670a1d0c37ca99))\n* changing changelog preset ([047c4f1](https://github.com/leouo/semver-bump-automation/commit/047c4f18334a3dbe9c447d0c1331af6e1af77528))\n\n\n\n"
+48 verbose root wrote /Users/vitor.matsumura/Documents/projects/conventional-bump-study/CHANGELOG.md
+49 silly lifecycle No script for "version" in "semver-bump-automation", continuing
+50 silly gitAdd [
+50 silly gitAdd   'modules/feature-5/package.json',
+50 silly gitAdd   'modules/feature-3/package.json',
+50 silly gitAdd   'modules/feature-5/CHANGELOG.md',
+50 silly gitAdd   'modules/feature-3/CHANGELOG.md',
+50 silly gitAdd   'CHANGELOG.md',
+50 silly gitAdd   'lerna.json'
+50 silly gitAdd ]
+51 silly gitCommit v4.8.0
+52 verbose git [ 'commit', '-m', 'v4.8.0' ]
+53 silly gitTag v4.8.0
+54 verbose git [ 'tag', 'v4.8.0', '-m', 'v4.8.0' ]
+55 error Error: Command failed: git tag v4.8.0 -m v4.8.0
+55 error fatal: tag 'v4.8.0' already exists
+55 error
+55 error     at makeError (/Users/vitor.matsumura/Documents/projects/conventional-bump-study/node_modules/execa/index.js:174:9)
+55 error     at /Users/vitor.matsumura/Documents/projects/conventional-bump-study/node_modules/execa/index.js:278:16
+55 error     at runMicrotasks (<anonymous>)
+55 error     at processTicksAndRejections (internal/process/task_queues.js:93:5)
