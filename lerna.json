@@ -2,6 +2,6 @@
   "packages": [
     "modules/*"
   ],
-  "version": "5.0.1",
+  "version": "independent",
   "changelogPreset": "conventional-changelog-metahub"
 }
