@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [5.0.0](https://github.com/leouo/semver-bump-automation/compare/v4.10.0...v5.0.0) (2021-02-23)
+
+
+### ✨ Features
+
+* **feature-3:** testing breaking change ([e4abb85](https://github.com/leouo/semver-bump-automation/commit/e4abb85d5cb183bdf3e414d39118f2f66cc1919b))
+
+
+### Breaking changes
+
+* **feature-3:** this is a description of breacking change
+
+
+
+
+
 # [4.10.0](https://github.com/leouo/semver-bump-automation/compare/v4.9.5...v4.10.0) (2021-02-23)
 
 

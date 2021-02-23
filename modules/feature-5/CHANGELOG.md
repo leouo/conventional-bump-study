@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [5.0.0](https://github.com/leouo/semver-bump-automation/compare/v4.10.0...v5.0.0) (2021-02-23)
+
+**Note:** Version bump only for package feature-5
+
+
+
+
+
 # [4.10.0](https://github.com/leouo/semver-bump-automation/compare/v4.9.5...v4.10.0) (2021-02-23)
 
 
