@@ -2,6 +2,5 @@
   "packages": [
     "modules/*"
   ],
-  "version": "7.1.3-alpha.1",
-  "changelogPreset": "conventional-changelog-metahub"
+  "version": "7.1.3-alpha.1""
 }
