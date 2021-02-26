@@ -3,6 +3,28 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [7.3.0](https://github.com/leouo/semver-bump-automation/compare/v7.3.0-alpha.0...v7.3.0) (2021-02-26)
+
+
+### Bug Fixes
+
+* **feature-3:** fix implementation ([d209a44](https://github.com/leouo/semver-bump-automation/commit/d209a44fcba34c122d6def2be72ee6bb33114f64))
+
+
+### Features
+
+* **feature-3:** feat implementation ([cd3a7dc](https://github.com/leouo/semver-bump-automation/commit/cd3a7dc743d97807bd95cd7ea5c021c7974681ad))
+
+
+### Performance Improvements
+
+* **feature-3:** performatic implementation ([a324c33](https://github.com/leouo/semver-bump-automation/commit/a324c339aa8d3e9af9159eeafebdf017157dba8f))
+* **feature-3:** performatic implementation ([8e305ec](https://github.com/leouo/semver-bump-automation/commit/8e305ec95dabf33685c06170123f4bf3a5557440))
+
+
+
+
+
 # [7.3.0-alpha.0](https://github.com/leouo/semver-bump-automation/compare/v7.2.0-alpha.0...v7.3.0-alpha.0) (2021-02-26)
 
 
