@@ -1,6 +1,6 @@
 {
   "name": "semver-bump-automation",
-  "version": "4.9.0",
+  "version": "7.6.0",
   "description": "",
   "main": "index.js",
   "scripts": {
