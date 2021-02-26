@@ -6,6 +6,8 @@
   "scripts": {
     "release": "standard-version",
     "lerna": "lerna version --conventional-commits -y",
+    "lerna-prerelease": "lerna version --conventional-commits --conventional-prerelease -y",
+    "lerna-graduate": "lerna version --conventional-commits --conventional-graduate --yes",
     "conventional-changelog": "conventional-changelog-cli -p angular -i CHANGELOG.md -s"
   },
   "repository": {
