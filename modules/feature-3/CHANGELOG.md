@@ -3,6 +3,64 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [7.8.0](https://github.com/leouo/semver-bump-automation/compare/v7.5.0...v7.8.0) (2021-03-16)
+
+
+### ✨ Features
+
+* **feature-3:** feat implementation ([617f4fc](https://github.com/leouo/semver-bump-automation/commit/617f4fc3c4132fc54bcd0b6eea1bd34047e2fa4c))
+* **feature-3:** feat implementation ([173ea2e](https://github.com/leouo/semver-bump-automation/commit/173ea2e7956551cbfc0e6c238dfef2186ea27e82))
+* **feature-3:** feat implementation ([2989544](https://github.com/leouo/semver-bump-automation/commit/29895442b7c4140bc845812ff17e26eec68ce173))
+
+
+### 🐛 Bug Fixes
+
+* **feature-3:** fix implementation ([517eb85](https://github.com/leouo/semver-bump-automation/commit/517eb857c904d65e1c6f9626d58b1586255f0623))
+* **feature-3:** fix implementation ([44efcc1](https://github.com/leouo/semver-bump-automation/commit/44efcc1d1ed27bed4c204c6a907b1a577e811db2))
+* **feature-3:** fix implementation ([5f84d0e](https://github.com/leouo/semver-bump-automation/commit/5f84d0e9ecf591d99503138b248732debd1d0000))
+
+
+### 🚀 Performance Improvements
+
+* **feature-3:** performatic implementation ([e9a5d8c](https://github.com/leouo/semver-bump-automation/commit/e9a5d8ccd315226d8c2f7cfb32b68f209f79815b))
+* **feature-3:** performatic implementation ([a1fe420](https://github.com/leouo/semver-bump-automation/commit/a1fe420f5e754aefcecadde2a01d2d888bb385d3))
+* **feature-3:** performatic implementation ([e31090d](https://github.com/leouo/semver-bump-automation/commit/e31090dd7bfe71534b9f4c1069a6cca8ba3e7a07))
+* **feature-3:** performatic implementation ([1c1f026](https://github.com/leouo/semver-bump-automation/commit/1c1f026b3d6124fe1c297a050f938a51b7a15b2e))
+* **feature-3:** performatic implementation ([e8e9720](https://github.com/leouo/semver-bump-automation/commit/e8e97201d8c341a4aa574abb0f2aa626188e7e20))
+* **feature-3:** performatic implementation ([f9fdfed](https://github.com/leouo/semver-bump-automation/commit/f9fdfede67f5dabc625c93ddd3d99800c1fe4d1d))
+
+
+### 📦 Code Refactoring
+
+* **feature-3:** refactoring implementation ([cc1f4f6](https://github.com/leouo/semver-bump-automation/commit/cc1f4f691ece00e6ffeb047b6d53ec6208a31944))
+* **feature-3:** refactoring implementation ([44b8e4e](https://github.com/leouo/semver-bump-automation/commit/44b8e4e8f8d23fd37d4e899aa19f14fabedeb9da))
+* **feature-3:** refactoring implementation ([65f1831](https://github.com/leouo/semver-bump-automation/commit/65f18319e9370612d528834d0e780567f476e79d))
+
+
+### 📚 Documentation
+
+* **feature-3:** add doc content ([a36f572](https://github.com/leouo/semver-bump-automation/commit/a36f572ce0ac6301c2290d26b5e8ce54f6a551dd))
+* **feature-3:** add doc content ([51cae1b](https://github.com/leouo/semver-bump-automation/commit/51cae1b8e42132f4c3e1e154681d78b12942ca6c))
+* **feature-3:** add doc content ([94e0fda](https://github.com/leouo/semver-bump-automation/commit/94e0fda026c6d7f493557d2ca34d7771343c7e28))
+
+
+### 🚨 Tests
+
+* **feature-3:** test implementation ([ea7c360](https://github.com/leouo/semver-bump-automation/commit/ea7c360910f6460b707ef6f62fd7b002095d8f4d))
+* **feature-3:** test implementation ([7bbc5eb](https://github.com/leouo/semver-bump-automation/commit/7bbc5eb432ffb2b4ac6f62c2f7b5765856cae19b))
+* **feature-3:** test implementation ([1f689cf](https://github.com/leouo/semver-bump-automation/commit/1f689cf080fb9f7105b026e088909226a61f5586))
+
+
+### ♻️ Chores
+
+* **feature-3:** chore implementation ([8d96fee](https://github.com/leouo/semver-bump-automation/commit/8d96fee92b5e2072f771ce94f3df3e37d0fccfde))
+* **feature-3:** chore implementation ([3a7705e](https://github.com/leouo/semver-bump-automation/commit/3a7705e25912b1346bea2b138c22314d7ce17e12))
+* **feature-3:** chore implementation ([2ca93d4](https://github.com/leouo/semver-bump-automation/commit/2ca93d480b2757238ebbe6e7f64ecb95e7662fe1))
+
+
+
+
+
 # [7.7.0](https://github.com/leouo/semver-bump-automation/compare/v7.5.0...v7.7.0) (2021-03-16)
 
 
